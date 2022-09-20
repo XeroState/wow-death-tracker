@@ -1,0 +1,6 @@
+## Interface: 30400
+## Title: XeroState's Custom Death Counter
+## Notes: Custom Death Counter
+## Version: 3
+## SavedVariables: DeathCount, DeathPlayer
+DeathCounter.lua
